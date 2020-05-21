@@ -1,0 +1,16 @@
+p{
+    text-transform: capitalize;
+    font-size: 15px;
+}
+
+#header{
+    &:hover{
+        color: green;
+    }
+}
+
+#header-two{
+    &:hover{
+     color: #808000;
+    }
+}
